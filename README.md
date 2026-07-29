@@ -10,7 +10,7 @@ Computer Science undergraduate (2026 grad) with a Minor in Data Science from IIT
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 **Languages & Core:** Python, SQL
 **ML/DS:** Scikit-learn, Pandas, NumPy, Matplotlib, SHAP, Imbalanced-learn
