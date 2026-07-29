@@ -12,11 +12,11 @@ Computer Science undergraduate (2026 grad) with a Minor in Data Science from IIT
 
 ##  Skills
 
-**Languages & Core:** Python, SQL
-**ML/DS:** Scikit-learn, Pandas, NumPy, Matplotlib, SHAP, Imbalanced-learn
-**NLP/LLM:** Hugging Face Transformers, Sentence Transformers, ChromaDB, RAG pipelines, Groq (Llama 3.3 70B)
-**AI Agents:** Agentic workflows, tool-use/orchestration patterns built on top of LLM/RAG pipelines
-**Tools:** Streamlit, Excel Power Query, Git/GitHub
+- **Languages & Core:** Python, SQL
+-**ML/DS:** Scikit-learn, Pandas, NumPy, Matplotlib, SHAP, Imbalanced-learn
+-**NLP/LLM:** Hugging Face Transformers, Sentence Transformers, ChromaDB, RAG pipelines, llm's
+-**AI Agents:** Agentic workflows, tool-use/orchestration patterns built on top of LLM/RAG pipelines
+-**Tools:** Streamlit, Excel Power Query, Git/GitHub
 
 ---
 
