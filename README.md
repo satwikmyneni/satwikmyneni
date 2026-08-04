@@ -3,7 +3,6 @@
 Computer Science undergraduate (2026 grad) with a Minor in Data Science from IIT Guwahati, based in Hyderabad, India. I'm looking for opportunities as a **Data Scientist / ML Engineer / Data Engineer**.
 
 -  Currently sharpening ML fundamentals and SQL through hands-on, from-scratch implementations
--  Working through a structured 43-topic ML roadmap (Decision Trees → NLP → Time Series)
 -  Exploring AI agents and agentic workflows on top of LLM/RAG pipelines
 -  Ask me about ML concepts, SQL, and applied NLP/LLM/agent projects
 -  Reach me via GitHub
